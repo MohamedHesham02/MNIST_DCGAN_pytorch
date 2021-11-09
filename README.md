@@ -40,25 +40,25 @@ python FC_Batch_normalized/FC_wth_batchnorm.py
 python FC_Batch_normalized/FC_BN_test.py
 ```
 
-## 3- Deep Convolutional Generative Adversarial Networks (DCGAN)
-### To train the model from scratch use this command line:
+### 3- Deep Convolutional Generative Adversarial Networks (DCGAN)
+#### To train the model from scratch use this command line:
 
 ```
 python DCGAN/DCGAN.py
 ```
-### To test the model and see the results of network with inputting noise images use this command line:
+#### To test the model and see the results of network with inputting noise images use this command line:
 
 ```
 python DCGAN/DCGAN_test.py
 ```
 
 ### 4- Deep Convolutional Generative Adversarial Networks with Spectral Normalization 
-### To train the model from scratch use this command line:
+#### To train the model from scratch use this command line:
 
 ```
 python DCGAN_spect/DCGAN_spect.py
 ```
-### To test the model and see the results of network with inputting noise images use this command line:
+#### To test the model and see the results of network with inputting noise images use this command line:
 
 ```
 python DCGAN_spect/DCGAN_SP_test.py
