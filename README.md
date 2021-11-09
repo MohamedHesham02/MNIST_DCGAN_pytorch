@@ -1,4 +1,4 @@
-# MNIST_GAN_pytorch
+# MNIST_GAN_Pytorch
 
 ### In this Machine Learning approach, we're focusing on generation of images based on Generative Adverserial Network (GAN) which is specialized in producing fake images that network is trained on.
 
