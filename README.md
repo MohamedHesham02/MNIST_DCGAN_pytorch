@@ -10,10 +10,10 @@
 
 ### The 4 Methods are:
 
- 1- Fully Connected Network 
- 2- Fully Connected Network with Batch Normalization 
- 3- Deep Convolutional Generative Adversarial Networks (DCGAN)
- 4- Deep Convolutional Generative Adversarial Networks with Spectral Normalization 
+##### 1- Fully Connected Network 
+##### 2- Fully Connected Network with Batch Normalization 
+##### 3- Deep Convolutional Generative Adversarial Networks (DCGAN)
+##### 4- Deep Convolutional Generative Adversarial Networks with Spectral Normalization 
 
 ### 1 - Fully Connected Network 
  To train the model from scratch use this command line:
