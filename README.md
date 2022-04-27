@@ -10,55 +10,55 @@
 
 ### The 4 Methods are:
 
-#### 1- Fully Connected Network 
-#### 2- Fully Connected Network with Batch Normalization 
-#### 3- Deep Convolutional Generative Adversarial Networks (DCGAN)
-#### 4- Deep Convolutional Generative Adversarial Networks with Spectral Normalization 
+ 1- Fully Connected Network 
+ 2- Fully Connected Network with Batch Normalization 
+ 3- Deep Convolutional Generative Adversarial Networks (DCGAN)
+ 4- Deep Convolutional Generative Adversarial Networks with Spectral Normalization 
 
 ### 1 - Fully Connected Network 
-#### To train the model from scratch use this command line:
+ To train the model from scratch use this command line:
 
 ```
 python Fully_Connected/Fully_connected.py
 ```
 
-#### To test the model and see the results of network with inputting noise images use this command line:
+ To test the model and see the results of network with inputting noise images use this command line:
 
 ```
 python Fully_Connected/FC_test.py
 ```
 
 ### 2- Fully Connected Network with Batch Normalization
-#### To train the model from scratch use this command line:
+ To train the model from scratch use this command line:
 
 ```
 python FC_Batch_normalized/FC_wth_batchnorm.py
 ```
-#### To test the model and see the results of network with inputting noise images use this command line:
+ To test the model and see the results of network with inputting noise images use this command line:
 
 ```
 python FC_Batch_normalized/FC_BN_test.py
 ```
 
 ### 3- Deep Convolutional Generative Adversarial Networks (DCGAN)
-#### To train the model from scratch use this command line:
+ To train the model from scratch use this command line:
 
 ```
 python DCGAN/DCGAN.py
 ```
-#### To test the model and see the results of network with inputting noise images use this command line:
+ To test the model and see the results of network with inputting noise images use this command line:
 
 ```
 python DCGAN/DCGAN_test.py
 ```
 
 ### 4- Deep Convolutional Generative Adversarial Networks with Spectral Normalization 
-#### To train the model from scratch use this command line:
+ To train the model from scratch use this command line:
 
 ```
 python DCGAN_spect/DCGAN_spect.py
 ```
-#### To test the model and see the results of network with inputting noise images use this command line:
+ To test the model and see the results of network with inputting noise images use this command line:
 
 ```
 python DCGAN_spect/DCGAN_SP_test.py
